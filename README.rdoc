@@ -1,7 +1,16 @@
 == README
 
-First attempt at a basic To-Do List App 
+Checklist
+Version 1.0
 
-Made with Ruby on Rails
+Goals: 
+* CRUD Methods
+* Basic Authentication with Devise
+
+Please forgive the hideous styling. I decided to begin a second version before styling the app.
+Also, this is the first app I've ever built and would love some feedback on how I make the code better.
+
+Thanks! 
+
 
 
